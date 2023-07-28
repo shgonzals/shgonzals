@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m @shgonzals. I'm a full-stack developer and I have 6 years of Java and Sencha ExtJS development experience.
 - 👀 I’m interested in improve my Java coding skills and continue growing as a developer.
-- 🌱 I’m currently interested in learning about Angular.
+- 🌱 I’m currently interested in learning about Kafka and MongoDB.
 - 💞️ I’m going to update my projects here to share it with everyone and keep motivated to code on my free time.
 - 📫 You can reach me at this email address: sh.gonzal.s@gmail.com
 
