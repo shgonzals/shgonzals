@@ -3,11 +3,11 @@
 
 - 👋 Hi, I’m @shgonzals. I'm a full-stack developer and I have 6 years of Java and Sencha ExtJS development experience.
 - 👀 I’m interested in improve my Java coding skills and continue growing as a developer.
-- 🌱 I’m currently interested in learning about Kafka and MongoDB.
+- 🚧 I’m currently working on [QR-Gen](https://github.com/shgonzals/qr-gen) 
 - 💞️ I’m going to update my projects here to share it with everyone and keep motivated to code on my free time.
 - 📫 You can reach me at this email address: sh.gonzal.s@gmail.com
 
-<!--- - 🔭 I’m currently working on [ACNH-Wiki](https://github.com/shgonzals/ACNH-Wiki) --->
+<!--- - 🔭 I’m currently working on [ACNH-Wiki](https://github.com/shgonzals/ACNH-Wiki) - 🌱 I’m interested in learning about Kafka and MongoDB. --->
 
 ## Top Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shgonzals&layout=compact)](https://github.com/shgonzals/github-readme-stats)
