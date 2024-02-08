@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m @shgonzals. I'm a full-stack developer and I have 6 years of Java and Sencha ExtJS development experience.
 - 👀 I’m interested in improve my Java coding skills and continue growing as a developer.
-- 🚧 I’m currently working on [QR-Gen](https://github.com/shgonzals/qr-gen) 
+- 🌱 I’m currently working on [Taskify](https://github.com/shgonzals/taskify/tree/develop) 
 - 💞️ I’m going to update my projects here to share it with everyone and keep motivated to code on my free time.
 - 📫 You can reach me at this email address: sh.gonzal.s@gmail.com
 
